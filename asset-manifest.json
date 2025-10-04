@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/Rudraam/COMP3104/static/js/main.482d307b.js",
-    "index.html": "/Rudraam/COMP3104/index.html",
-    "main.482d307b.js.map": "/Rudraam/COMP3104/static/js/main.482d307b.js.map"
+    "main.js": "/COMP3104/static/js/main.482d307b.js",
+    "index.html": "/COMP3104/index.html",
+    "main.482d307b.js.map": "/COMP3104/static/js/main.482d307b.js.map"
   },
   "entrypoints": [
     "static/js/main.482d307b.js"
